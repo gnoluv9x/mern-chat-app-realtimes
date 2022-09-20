@@ -1,4 +1,4 @@
 /server/node_modules
-/public/node_modules
+/client-side/node_modules
 /server/yarn.lock
-/public/yarn.lock
+/client-side/yarn.lock
